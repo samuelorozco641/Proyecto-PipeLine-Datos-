@@ -27,8 +27,7 @@ entidades interesadas en la seguridad vial.
 -   **Conjunto:** Vehículos involucrados en un accidente de tránsito --
     Ley 2251 de 2022.
 -   **Identificador Socrata:** `6jmc-vaxk`
--   **Página del conjunto:** [Consultar conjunto de
-    datos](https://www.datos.gov.co/Transporte/VEHICULOS-INVOLUCRADOS-EN-UN-ACCIDENTE-DE-TRANSITO/6jmc-vaxk)
+-   **Página del conjunto:** [Fuente de datos](https://www.datos.gov.co/Transporte/VEHICULOS-INVOLUCRADOS-EN-UN-ACCIDENTE-DE-TRANSITO/6jmc-vaxk)
 -   **Endpoint API:** `https://www.datos.gov.co/resource/6jmc-vaxk.json`
 
 El notebook consulta la API mediante solicitudes HTTP y paginación. El
